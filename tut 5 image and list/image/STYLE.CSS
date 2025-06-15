@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(253, 253, 253);
+}
+
+caption{
+    background-color: black;
+    color: rgb(0, 255, 247);
+    font-style: oblique;
+    border: 5px ;
+}
+td{
+    border: 2px solid black;
+}
+tr{
+    border: 2px solid black;
+}
